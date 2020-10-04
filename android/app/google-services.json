@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "685376627859",
+    "firebase_url": "https://doctor-dbfea.firebaseio.com",
+    "project_id": "doctor-dbfea",
+    "storage_bucket": "doctor-dbfea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685376627859:android:d76c47796e6f9d7c98d966",
+        "android_client_info": {
+          "package_name": "com.example.doctor_consult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685376627859-1gvf3sks42eocin5vsddg7co9140k4vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctor_consult",
+            "certificate_hash": "c2b9f49f5697028d48abe3611830370c3ceb001e"
+          }
+        },
+        {
+          "client_id": "685376627859-ip5mcflg017l664of8vjthvmb3ksann9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbTZTgJc7ckORWut8Jdx00xTDIaF5etI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685376627859-ip5mcflg017l664of8vjthvmb3ksann9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
